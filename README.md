@@ -20,5 +20,10 @@ Processing steps:
 5. Applying clustering to split the input point cloud. We separate each detected obstacle and get its correspondent points using the DBScan Algorithm.
 6. Determining and drawing the bounding boxes for the obstacles in the point cloud.
 
+To install Open3D:
+- Refer to the official package documentation http://www.open3d.org/docs/release/
+- But pip install open3d should be enough (this includes jupyter)
+- Only matplotlib is the other essential package that requires manual installation
+
 Special mention:
 - Special thanks to Udacity for providing a number of useful .pcd lidar sensor readings: https://github.com/udacity/SFND_Lidar_Obstacle_Detection
