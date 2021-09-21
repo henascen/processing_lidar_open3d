@@ -21,4 +21,4 @@ Processing steps:
 6. Determining and drawing the bounding boxes for the obstacles in the point cloud.
 
 Special mention:
-- Special thanks to Udacity to provide this useful .pcd lidar sensor readings: https://github.com/udacity/SFND_Lidar_Obstacle_Detection
+- Special thanks to Udacity for providing a number of useful .pcd lidar sensor readings: https://github.com/udacity/SFND_Lidar_Obstacle_Detection
