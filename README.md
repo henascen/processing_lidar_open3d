@@ -27,7 +27,7 @@ To install Open3D:
 
 ## Installing
 
-* The environment had been proven on Windows 10 *
+The environment has been proven on Windows 10
 - pip install -r **requirements.txt**
 
 ## Example
