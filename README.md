@@ -25,5 +25,16 @@ To install Open3D:
 - But pip install open3d should be enough (this includes jupyter)
 - Only matplotlib is the other essential package that requires manual installation
 
+## Installing
+
+* The environment had been proven on Windows 10 *
+- pip install -r **requirements.txt**
+
+## Example
+
+The notebook *lidar_processing* contains all the steps in this example. Once the
+environment is created (all packages installed), the notebook can be run without
+errors.
+
 Special mention:
 - Special thanks to Udacity for providing a number of useful .pcd lidar sensor readings: https://github.com/udacity/SFND_Lidar_Obstacle_Detection
